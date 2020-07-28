@@ -7,7 +7,7 @@ A aplicação é uma cópia do Tinder, porém voltado para desenvolvedores. A id
 
 # Funcionamento da API do github
 
-A funcionalidade é bem simples basta solicitar na url abaixo no local do username o seu username que como resultado terar um JSON com os dados como podemos ver no no exemplo do [link](https://api.github.com/users/brunosousadev).
+A funcionalidade é bem simples basta solicitar na url abaixo no local do username o seu username que como resultado terar um JSON com os dados como podemos ver no no exemplo do [link](https://api.github.com/users/jwsus).
 
 ```
   https://api.github.com/users/username
